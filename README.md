@@ -28,6 +28,17 @@ Team: Angela Yung, Zachary Chan, Kunlong (Mark) He, Curtis Huang, Kyle Mollard
 
 ![Main menu](docs/main-menu.png)
 
+## My role
+
+I was involved throughout the design discussions. On the code side, I built:
+
+- **Achievements system** (20 achievements with unlock checks), **player profile and stats**, and **settings**
+- **Custom grid colours**, **sound effects and background music**, and the **main menu UI**
+- Parts of the **game flow** between scenes
+- **Refactoring** in phase 3 (code-smell cleanup)
+
+The AI opponents and much of the core battle logic were built by other team members.
+
 ## Software engineering process
 
 The project followed a phased process, and each phase has its own document:
